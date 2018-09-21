@@ -1,0 +1,49 @@
+_repo: Sammtliche-Werke-2-Die-Abenteuer-Tschitschikows-oder-Die-toten-Seelen-II_54263
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Bugow, S.
+    gutenberg_agent_id: '45419'
+    url: http://www.gutenberg.org/2009/agents/45419
+  - agent_name: Spiro, Mario
+    birthdate: 1883
+    gutenberg_agent_id: '47793'
+    url: http://www.gutenberg.org/2009/agents/47793
+  - &id001
+    agent_name: Buek, Otto
+    birthdate: 1873
+    gutenberg_agent_id: '45416'
+    url: http://www.gutenberg.org/2009/agents/45416
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolaj
+    - Gogol, Nikolay Vasilyevich
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+  editor: *id001
+description: ''
+gutenberg_issued: '2017-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54263'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Satire'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcsh 'Swindlers and swindling -- Russia -- Fiction'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: Die Abenteuer des Grafen Tschitschikows oder die Toten Seelen. Zweiter
+  Teil -- Der Mantel -- Die Nase -- Das Porträt.
+title: 'Sämmtliche Werke 2: Die Abenteuer Tschitschikows oder Die toten Seelen II'
+url: http://www.gutenberg.org/ebooks/54263
